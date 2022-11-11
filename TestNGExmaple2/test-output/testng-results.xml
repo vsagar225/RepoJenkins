@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-05T23:34:43 IST" name="Suite" finished-at="2022-11-05T23:34:43 IST" duration-ms="39">
+    <groups>
+    </groups>
+    <test started-at="2022-11-05T23:34:43 IST" name="Test" finished-at="2022-11-05T23:34:43 IST" duration-ms="39">
+      <class name="pack1.TestNGEx1">
+        <test-method signature="tc1(java.lang.String)[pri:0, instance:pack1.TestNGEx1@5ace1ed4]" started-at="2022-11-05T23:34:43 IST" name="tc1" finished-at="2022-11-05T23:34:43 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[john]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- pack1.TestNGEx1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
